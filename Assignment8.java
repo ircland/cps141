@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 public class Assignment8 {
 
 	/**
-	 * @author isaac otero
+	 * @author isaac
 	 * @param args
 	 */
 	public static void main(String[] args) {
