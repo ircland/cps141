@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class BodyMassIndex {
-//author @isaac otero
+//author @isaac
 	public static void main(String[] args) {
 		double userHeight;
 		double userWeight;
