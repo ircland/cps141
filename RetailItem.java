@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 public class RetailItem {
-	// @author Isaac Otero
+	// @author isaac
 	private String description;
 	private double price;
 	private int unitsOnHand;
