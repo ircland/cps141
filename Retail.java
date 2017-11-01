@@ -1,4 +1,4 @@
-//@author Isaac Otero
+//@author isaac
 import java.text.DecimalFormat;
 public class Retail {
 
